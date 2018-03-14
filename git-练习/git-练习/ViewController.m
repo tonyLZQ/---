@@ -19,6 +19,7 @@
     
     
     NSLog(@"second:comit");
+    NSLog(@"third:comit");
 }
 
 
