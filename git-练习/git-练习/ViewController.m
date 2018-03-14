@@ -21,6 +21,8 @@
     NSLog(@"clear");
     NSLog(@"add dev");
     NSLog(@"add dev2");
+    
+    NSLog(@"成功修复了bug,可以继续在dev中进行开发了");
 }
 
 
