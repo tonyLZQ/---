@@ -20,6 +20,7 @@
     
     NSLog(@"second:comit");
     NSLog(@"third:comit");
+    NSLog(@"删除分支后提交");
 }
 
 
