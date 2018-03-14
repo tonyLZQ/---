@@ -23,6 +23,9 @@
     NSLog(@"add dev2");
     
     NSLog(@"成功修复了bug,可以继续在dev中进行开发了");
+
+    NSLog(@"目前正在dev中开发分支");
+    NSLog(@"接到命令要去处理bug");
 }
 
 
