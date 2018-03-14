@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"clear");
+    NSLog(@"add dev");
 }
 
 
