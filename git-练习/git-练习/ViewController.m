@@ -20,6 +20,7 @@
     
     NSLog(@"clear");
     NSLog(@"add dev");
+    NSLog(@"add dev2");
 }
 
 
