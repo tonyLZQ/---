@@ -21,6 +21,9 @@
     NSLog(@"clear");
     NSLog(@"add dev");
     NSLog(@"add dev2");
+    
+    NSLog(@"目前正在dev中开发分支");
+    NSLog(@"接到命令要去处理bug");
 }
 
 
